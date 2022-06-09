@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Languages of choice are Python, C#, F#, Rust, Haskell, sometimes C.
+
+If you need to get in touch, email is probably the easiest way.
+
+he/him
+
 <!--
 **IbzanHyena/IbzanHyena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
